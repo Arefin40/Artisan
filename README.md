@@ -10,9 +10,13 @@ A web-based platform designed to showcase and explore different forms of paintin
 
 **Backend API:** [Artisan API](https://artisan-server.vercel.app/)
 
+<picture>
+   <img src="public/Artisan.png" alt="Website Preview" />
+</picture>
+
 ## Tech Stack
 
-**Prerequisites** 
+**Prerequisites**
 Make sure you have the following installed:
 
 - Git
@@ -22,6 +26,7 @@ Make sure you have the following installed:
 - Firebase Account
 
 **Frontend**
+
 - React 18 - Component-based UI development
 - Vite 5 - Fast development server and build tool
 - JavaScript - Application logic
@@ -37,6 +42,7 @@ Make sure you have the following installed:
 - Emotion React - Styling support
 
 **Backend**
+
 - Node.js - Server-side JavaScript runtime
 - Express.js - REST API development
 - MongoDB - Database management and artwork storage
@@ -45,6 +51,7 @@ Make sure you have the following installed:
 - Nodemon - Automatic server restarting during development
 
 **Hosting**
+
 - Firebase Hosting - Frontend deployment
 - Vercel - Backend deployment
 
